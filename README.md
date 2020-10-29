@@ -1,16 +1,22 @@
-### Hi there 👋
+```c++
+#include <POC>
+#include <peopleWithDisablities>
+#include <LGBTQIA+>
+#include <care>
 
-<!--
-**violetcraze/violetcraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+int main(int argc, char** argv) {
 
-Here are some ideas to get you started:
+  assert blackLivesMatter;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  while (github.supportsICE()) {
+    getAngry();
+    fightBack();
+  }
+
+  vector<string> v = {"political", "inherently biased", "too short sighted", "kinda awesome"};
+  for (size_t i = 0; i < v.size(); ++i) {
+    cout << "software is " << v[i] << '\n';
+  }
+
+}
+```
